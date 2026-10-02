@@ -1,0 +1,5 @@
+pytest
+spacy
+pypdf
+nltk
+matplotlib

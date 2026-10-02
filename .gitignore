@@ -1,0 +1,9 @@
+data/
+old_versions/
+dev.spacy
+train.spacy
+results/
+.venv/
+__pycache__/
+.vscode/
+.DS_Store
